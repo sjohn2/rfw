@@ -1,8 +1,8 @@
 {
     "name": "nitro",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "author": "Sajan John",
-    "homepage": "",
+    "homepage": "https://github.com/sjohn2/nitro",
     "licenses": {
         "type": "MIT",
         "url": ""
@@ -10,7 +10,7 @@
     "bugs": "",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/sjohn2/nitro"
     },
     "dependencies": {},
     "devDependencies": {
