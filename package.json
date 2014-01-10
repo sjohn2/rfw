@@ -2,7 +2,7 @@
     "name": "nitro",
     "version": "0.0.3",
     "author": "Sajan John",
-    "homepage": "https://github.com/sjohn2/nitro",
+    "homepage": "http://sjohn2.github.io/rfw/",
     "licenses": {
         "type": "MIT",
         "url": ""
@@ -10,7 +10,7 @@
     "bugs": "",
     "repository": {
         "type": "git",
-        "url": "https://github.com/sjohn2/nitro"
+        "url": "https://github.com/sjohn2/rfw"
     },
     "dependencies": {},
     "devDependencies": {
