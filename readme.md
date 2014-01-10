@@ -1,11 +1,42 @@
-/*
-"grunt-recess" Lint and minify CSS and LESS
-"grunt-contrib-clean": "~0.4.1", //Clean files and folders
-"grunt-contrib-copy": "~0.4.1", //Copy files and folders
-"grunt-contrib-jshint": "~0.4.3", //Validate files with JSHint
-"grunt-contrib-concat": "~0.3.0", //Concatenate files
-"grunt-contrib-watch": "~0.4.0", // Run predefined tasks whenever watched file patterns are added, changed or deleted.
-"grunt-contrib-uglify": "~0.2.0", // minify js
-"grunt-conventional-changelog": "~0.1.1",//Generate a markdown changelog from git commit data
-"grunt-bump": "0.0.6" //Bump package version
-* */
+# RFW
+
+***
+Directory structure, Grunt build and workflow with HTML5 boilerplate for a faster UI development.
+
+## About
+The framework is intended to provide the best practice directory structure and easy to use grunt build and workflow for your front-layer of the website or single page application (SPA) project. Rapid supports JS task running, build process with version management, auto minification, file concatenation , Less css pre-processor compilation and HTML5 boilerplate framework.
+
+To kickstart a new UI project, all you have to do is clone Rapid and make configuration changes at package.json and Gruntfile.js if required and start coding.  In less than 10 minutes you have a working grunt build and workflow ready for your new project. 
+
+## Features
+* Best practice directory structure for your front-end layer
+* Basic HTML5 boilerplate with Shiv and Modernizer.
+* Open source workflow with Grunt.js that will minify, concatenate and maintain version management of your files. 
+* Dynamically appended copyright/license and version numbers for JS/CSS/HTML
+* Well documented Gruntfile.js for enhanced developer support
+* Built-in build script for auto-minification of CSS,JavaScript and HTML files for production
+* Pre-setup Less files and directory structure
+* Configurable JSHint
+* Lightweight framework
+
+## Wish list
+* LESS/SASS switching options
+* Image compression / optimizations
+* Command line execution bat and command files.
+
+## Install
+
+Required NodeJs  - for installation visit [https://github.com/joyent/node/wiki/installation](https://github.com/joyent/node/wiki/installation)
+
+```
+$ git clone git://github.com/sjohn2/rfw
+$ cd rfw
+$ sudo npm -g install grunt-cli
+$ npm install
+$ grunt
+
+```
+
+
+
+You can browser the index file from file:///path/to/rfw/build/index.html .
