@@ -9,6 +9,7 @@ The framework is intended to provide the best practice directory structure and e
 To kickstart a new UI project, all you have to do is clone Rapid and make configuration changes at package.json and Gruntfile.js if required and start coding.  In less than 10 minutes you have a working grunt build and workflow ready for your new project. 
 
 ## Directory Structure
+```
 ├── build
 │   ├── assets
 │   │   ├── css
@@ -34,6 +35,7 @@ To kickstart a new UI project, all you have to do is clone Rapid and make config
 ├── Gruntfile.js
 ├── package.json
 ├── README.md
+```
 
 ## Features
 * Best practice directory structure for your front-end layer
