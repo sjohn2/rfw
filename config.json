@@ -1,0 +1,6 @@
+{
+    "env": "prod",
+    "src": "src",
+    "build": "build",
+    "compileCssBy": "sass" 
+}
