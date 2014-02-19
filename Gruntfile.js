@@ -4,7 +4,7 @@
 module.exports = function(grunt){
 
     /*
-     *  Add all the global/reusable/repeatable params here
+     *  Add all the global/reusable/repeatable params here   
      */
     var globalConfig = {
         src: 'src',
@@ -25,6 +25,7 @@ module.exports = function(grunt){
 
         globalConfig: globalConfig,
 
+		
         /**
          *  bump the version number @package.json.
          */
